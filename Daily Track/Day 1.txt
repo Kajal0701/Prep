@@ -1,0 +1,24 @@
+* Leetcode Daily question    Done
+* complete daily study plan of (algorithms & blind 75)	Done
+* 10 questions (frequently asked)		Done (almost)
+
+1. Two Sum
+2. Roman to Integer
+3. LRU Cache
+4. Merge Intervals
+5. Minimum Remove to Make Valid Parentheses
+6. Number of Islands
+7. Binary Tree Vertical Order Traversal
+8. Valid paranthesis
+9. Median of Two Sorted Arrays
+10. Trapping Rain Water
+
+Search Insert Position
+First Bad Version
+Binary Search
+Find Pivot Index
+Running Sum of 1d Array
+Meeting Rooms II
+Binary Tree Vertical Order Traversal
+Minimum Remove to Make Valid Parentheses
+Interleaving String
